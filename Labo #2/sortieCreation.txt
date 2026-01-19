@@ -1,0 +1,213 @@
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 2 attend : Bois Metal
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 1 attend : Or 
+Thread : 6 attend : Jade Argent
+Thread : 4 attend : Diamant Fer
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 1 attend : Or Bois
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 5 attend : Jade
+Thread : 3 attend : Metal Diamant
+Thread : 0 attend : Argent Or
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 1 attend : Or 
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 3 attend : Metal Diamant
+Thread : 6 attend : Argent
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 5 attend : Fer 
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 0 attend : Or
+Thread : 4 attend : Diamant Fer
+Thread : 6 attend : Jade Argent
+Thread : 2 attend : Bois Metal
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 2 attend : Bois Metal
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 4 attend : Diamant Fer
+Thread : 0 attend : Argent Or
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 5 attend : Fer Jade
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 2 attend : Metal
+Thread : 6 attend : Jade Argent
+Thread : 1 attend : Or Bois
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 4 attend : Diamant Fer
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 6 attend : Jade Argent
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 4 attend : Diamant Fer
+Thread : 0 attend : Or
+Thread : 2 attend : Bois Metal
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 3 attend : Diamant
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 2 attend : Bois Metal
+Thread : 0 attend : Argent Or
+Thread : 5 attend : Fer Jade
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 2 attend : Bois Metal
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 4 attend : Diamant Fer
+Thread : 0 attend : Argent Or
+Thread : 6 attend : Jade 
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 6 attend : Jade Argent
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 1 attend : Bois
+Thread : 4 attend : Diamant Fer
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 3 attend : Metal Diamant
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 0 attend : Argent 
+Thread : 2 attend : Metal
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 5 attend : Jade
+Thread : 4 attend : Diamant 
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 1 attend : Or Bois
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 3 attend : Metal Diamant
+Thread : 5 attend : Fer 
+Thread : 6 attend : Argent
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 5 attend : Fer Jade
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 2 attend : Bois Metal
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 4 attend : Diamant Fer
+Thread : 0 attend : Argent Or
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 0 attend : Argent Or
+Thread : 6 attend : Jade 
+Thread : 4 attend : Diamant Fer
+Thread : 2 attend : Bois Metal
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 3 attend : Metal Diamant
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 1 attend : Or Bois
+Thread : 5 attend : Fer Jade
+Thread : 6 attend : Argent
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 4 attend : Diamant Fer
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 0 attend : Argent Or
+Thread : 2 attend : Bois Metal
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 5 attend : Fer Jade
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 6 attend : Jade Argent
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 2 attend : Bois Metal
+Thread : 1 attend : Or 
+Thread : 4 attend : Diamant Fer
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 5 attend : Fer Jade
+Thread : 2 attend : Bois 
+Thread : 3 attend : Diamant
+Thread : 0 attend : Argent Or
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 2 attend : Bois Metal
+Thread : 0 attend : Argent Or
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 6 attend : Jade Argent
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 4 attend : Diamant Fer
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 3 attend : Diamant
+Thread : 6 attend : Argent
+Thread : 1 attend : Or 
+Thread : 5 attend : Fer 
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 5 attend : Fer 
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 1 attend : Or 
+Thread : 3 attend : Metal Diamant
+Thread : 6 attend : Jade Argent
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 2 attend : Bois Metal
+Thread : 4 attend : Fer
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 6 attend : Jade 
+Thread : 0 attend : Or
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 4 attend : Fer
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 2 attend : Bois Metal
+Thread : 6 attend : Jade 
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 0 attend : Argent Or
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 1 attend : Or 
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 6 attend : Jade Argent
+Thread : 4 attend : Diamant Fer
+Thread : 2 attend : Metal
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 1 attend : Or Bois
+Thread : 3 attend : Metal Diamant
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 6 attend : Argent
+Thread : 5 attend : Fer Jade
+Thread : 5 crée un objet : [Epee] avec Fer et Jade
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 4 attend : Diamant Fer
+Thread : 1 attend : Bois
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 3 attend : Metal Diamant
+Thread : 6 attend : Jade Argent
+Thread : 0 crée un objet : [Coupe] avec Argent et Or
+Thread : 2 crée un objet : [Table] avec Bois et Metal
+Thread : 3 attend : Metal 
+Thread : 6 attend : Jade Argent
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 1 attend : Or Bois
+Thread : 5 attend : Fer 
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 5 attend : Jade
+Thread : 0 attend : Argent 
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 4 attend : Diamant Fer
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 2 attend : Bois Metal
+Thread : 0 attend : Or
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 2 attend : Bois 
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 5 attend : Jade
+Thread : 3 crée un objet : [Bague] avec Metal et Diamant
+Thread : 4 attend : Diamant Fer
+Thread : 1 crée un objet : [Porte] avec Or et Bois
+Thread : 4 crée un objet : [Chandelier] avec Diamant et Fer
+Thread : 2 attend : Bois Metal
+Thread : 3 attend : Metal Diamant
+Thread : 0 attend : Or
+Thread : 6 crée un objet : [Bracelet] avec Jade et Argent
+Thread : 5 attend : Fer Jade
+===============================
+Temps total d'exécution : 21.7586 secondes
+===============================
